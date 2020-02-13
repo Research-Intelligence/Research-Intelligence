@@ -1,0 +1,29 @@
+# Temporal outputs:
+temp.inp
+temp.bin
+temp.rpt
+db_py_to_r.csv
+db_r_to_py.csv
+temp-plot.html
+Keyword Searches/temp-plot.html
+
+# All files ending with:
+*.pdf
+*.pickle
+*.rar
+*.zip
+
+
+# Useless from MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+## Directories:
+# Temporal Outputs folder is simply transitional for outputs
+Temporal Outputs/
+Keyword Searches/Temporal Outputs/
+Keyword Searches/.ipynb_checkpoints/
+.ipynb_checkpoints/
+Comparison Files/.ipynb_checkpoints/
+Jupyter notebooks/.ipynb_checkpoints/
