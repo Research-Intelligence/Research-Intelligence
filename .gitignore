@@ -12,6 +12,13 @@ Keyword Searches/temp-plot.html
 *.pickle
 *.rar
 *.zip
+.ipynb_checkpoints
+*Icon\r\r
+*Icon?
+**/*.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+
 
 
 # Useless from MacOS
