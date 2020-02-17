@@ -6,6 +6,9 @@ db_py_to_r.csv
 db_r_to_py.csv
 temp-plot.html
 Keyword Searches/temp-plot.html
+VOSviewer.jar
+network.net
+
 
 # All files ending with:
 *.pdf
@@ -17,7 +20,7 @@ Keyword Searches/temp-plot.html
 *Icon?
 **/*.ipynb_checkpoints/
 */.ipynb_checkpoints/*
-
+*.txt
 
 
 
