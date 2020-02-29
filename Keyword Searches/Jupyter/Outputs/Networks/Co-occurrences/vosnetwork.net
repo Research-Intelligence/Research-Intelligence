@@ -1,0 +1,4766 @@
+*Vertices 1004
+1 "scientific workflow"
+2 "cancer genomics"
+3 "variant calling"
+4 "structural variants"
+5 "high-performance computing"
+6 "cloud computing"
+7 "snakemake"
+8 "xenon"
+9 "research software"
+10 "open science"
+11 "coffee beans quality"
+12 "digital image processing"
+13 "jupyter notebook"
+14 "supervised classification"
+15 "software"
+16 "metadata"
+17 "object recognition"
+18 "astronomy"
+19 "hypertext systems"
+20 "aggregates"
+21 "stability analysis"
+22 "data citation"
+23 "jupyter notebooks"
+24 "credit"
+25 "attribution"
+26 "discovery"
+27 "conda"
+28 "containerization"
+29 "dask"
+30 "de novo protein design"
+31 "disulfide-rich miniprotein"
+32 "elastic cloud services"
+33 "high performance computing"
+34 "jupyter"
+35 "python"
+36 "rosetta"
+37 "computational analysis"
+38 "dislocations"
+39 "transmission electron microscopy"
+40 "grain boundaries"
+41 "vein structures"
+42 "google earth engine"
+43 "shoreline mapping"
+44 "landsat"
+45 "sentinel-2"
+46 "sub-pixel resolution"
+47 "metabolomics"
+48 "partial least squares"
+49 "support vector machines"
+50 "random forest"
+51 "artificial neural network"
+52 "machine learning"
+53 "open source"
+54 "airborne electromagnetics"
+55 "induced polarisation"
+56 "electromagnetic geophysics"
+57 "coalescent"
+58 "evolution"
+59 "genetics"
+60 "ipython"
+61 "notebooks"
+62 "phylogeny"
+63 "toyplot"
+64 "multi-criteria spatial decision support systems"
+65 "social media data (twitter)"
+66 "disaster management"
+67 "big data"
+68 "and cybergis"
+69 "mobile devices"
+70 "social media"
+71 "teaching"
+72 "physic"
+73 "inquiry-based lab exercise"
+74 "biological diversity"
+75 "computer science"
+76 "data analysis"
+77 "deep learning"
+78 "neural network"
+79 "pattern recognition"
+80 "first-break picking"
+81 "mass spectrometry"
+82 "proteomics"
+83 "spectral clustering"
+84 "de novo"
+85 "spectral networking"
+86 "large-scale structure of universe"
+87 "cosmology: observations"
+88 "open access"
+89 "reproducibility"
+90 "data science"
+91 "statistics"
+92 "electrical properties"
+93 "electrical resistivity tomography (ert)"
+94 "electromagnetic theory"
+95 "downhole methods"
+96 "numerical modelling"
+97 "independent component analysis"
+98 "cancer"
+99 "omics data"
+100 "dimension reduction"
+101 "data integration"
+102 "workflow"
+103 "cytoscape"
+104 "interoperability"
+105 "rest"
+106 "microservice"
+107 "service-oriented architecture"
+108 "sentinel-1"
+109 "sar"
+110 "analysis ready data"
+111 "ard"
+112 "data cube"
+113 "earth observation"
+114 "pyrosar"
+115 "docker"
+116 "eearth observation data processing"
+117 "ide"
+118 "web application"
+119 "web processing service"
+120 "dark matter"
+121 "light mediator"
+122 "sommerfeld"
+123 "single cell"
+124 "rna-seq"
+125 "pipeline"
+126 "transcriptomics"
+127 "visualization"
+128 "django"
+129 "d3"
+130 "cybergis"
+131 "geospatial big data"
+132 "microservices"
+133 "science gateway"
+134 "topographic data"
+135 "imaging"
+136 "analysis"
+137 "notebook"
+138 "computing"
+139 "numpy"
+140 "compilers"
+141 "galaxies"
+142 "catalogues"
+143 "distributed programming languages"
+144 "enzyme kinetics"
+145 "kinetic modelling"
+146 "matplotlib"
+147 "nmr spectroscopy"
+148 "optimisation"
+149 "parametrisation"
+150 "pysces"
+151 "scipy"
+152 "validation"
+153 "computational reproducibility"
+154 "inversion"
+155 "programming"
+156 "3d modelling"
+157 "webgis"
+158 "responsive visualization"
+159 "open data"
+160 "smart cities"
+161 "uncertainty quantification"
+162 "molecular dynamics"
+163 "functional derivative"
+164 "shapefile-based data retrieval"
+165 "watershed hydrometeorology"
+166 "genome analysis"
+167 "nanopore sequencing"
+168 "infrared"
+169 "radiative transfer"
+170 "molecular absorption"
+171 "line-by-line"
+172 "catalytic reactions"
+173 "ipython software"
+174 "mass and heat transfer"
+175 "modeling"
+176 "non-catalytic and biochemical reactions"
+177 "porous media"
+178 "cct"
+179 "chromatic adaptation"
+180 "color appearance"
+181 "colorimetry"
+182 "color rendering"
+183 "color science"
+184 "duv"
+185 "hyper-spectral image simulation"
+186 "lighting"
+187 "models"
+188 "photobiological quantities"
+189 "spectral optimization"
+190 "tristimulus values"
+191 "toolbox"
+192 "computer-aided drug design"
+193 "rdkit"
+194 "learning"
+195 "cheminformatics"
+196 "structural bioinformatics"
+197 "bioinformatics"
+198 "itraq"
+199 "tmt"
+200 "isobaric labeling"
+201 "protocol"
+202 "protprotocols"
+203 "prolog"
+204 "logic programming system"
+205 "notebook interface"
+206 "web"
+207 "discontinuous galerkin"
+208 "hp-adaptivity"
+209 "porous media two-phase flow"
+210 "impes"
+211 "dune"
+212 "e-infrastructures"
+213 "nmr"
+214 "computational workflows"
+215 "galaxy"
+216 "standardization"
+217 "neutron reflectometry"
+218 "x-ray reflectometry"
+219 "bayesian analysis"
+220 "computer modelling"
+221 "refnx"
+222 "high-throughput"
+223 "python library"
+224 "education"
+225 "programming exercise"
+226 "collaborative development"
+227 "fashion recommendation"
+228 "clothing"
+229 "attribute"
+230 "style"
+231 "compatibility"
+232 "multi-modal search"
+233 "interpretation"
+234 "monte carlo simulations"
+235 "distributed computation"
+236 "paralelization"
+237 "database"
+238 "biological membranes"
+239 "lipid bilayers"
+240 "information retrieval"
+241 "probabilistic matrix factorization algorithm"
+242 "collaborative filtering"
+243 "multi-core"
+244 "research notebooks"
+245 "fair"
+246 "forecasting"
+247 "tensor analysis"
+248 "time series"
+249 "code suggestion"
+250 "code completion"
+251 "bayesian network"
+252 "support vector machine"
+253 "k- nearest neighbour"
+254 "k- means clustering"
+255 "brain dynamics"
+256 "tda"
+257 "fmri"
+258 "brain networks"
+259 "mapper"
+260 "cs1 instruction"
+261 "python 3"
+262 "reinforcement learning"
+263 "natural language processing"
+264 "semantic graph"
+265 "search engine"
+266 "document classification"
+267 "human-computer collaboration"
+268 "complex tasks"
+269 "research information systems"
+270 "digital humanities"
+271 "open source software"
+272 "languages of programming"
+273 "linear algebra"
+274 "matrix"
+275 "test calculations"
+276 "automatic control intellectual system"
+277 "navigation system"
+278 "unmanned aircraft apparatus"
+279 "qsa(p)r"
+280 "chemoinformatics"
+281 "hierarchical clustering"
+282 "genetic algorithm"
+283 "remote laboratories"
+284 "rainfall measurement"
+285 "collaborative tools"
+286 "system identification and parameter estimation"
+287 "modeling uncertainty"
+288 "artificial intelligence"
+289 "astronomical databases: miscellaneous"
+290 "catalogs"
+291 "surveys"
+292 "techniques: image processing"
+293 "techniques: photometric"
+294 "calendar reform"
+295 "copernicus"
+296 "heliographs"
+297 "length of tropical year"
+298 "methods: numerical"
+299 "methods: statistical"
+300 "kubernetes"
+301 "dark matter simulations"
+302 "dark matter theory"
+303 "galaxy dynamics"
+304 "ism: clouds"
+305 "methods: data analysis"
+306 "learning laboratories"
+307 "self-directed learning"
+308 "teaching methods"
+309 "virtual environments"
+310 "simulation"
+311 "sbmi"
+312 "systems biology"
+313 "robustness"
+314 "reusability"
+315 "network based stratification"
+316 "standard consensus dataset"
+317 "computational systems biology"
+318 "model analysis"
+319 "boolean networks"
+320 "python programming language"
+321 "image analysis"
+322 "open-source software"
+323 "registration"
+324 "segmentation"
+325 "r"
+326 "physics"
+327 "radiology education"
+328 "scientific notebook software"
+329 "stars: abundances"
+330 "stars: evolution"
+331 "data management"
+332 "cyberinfrastructure"
+333 "reproducible workflows"
+334 "electron microscopy"
+335 "image denoising"
+336 "atom finding"
+337 "scanning transmission electron microscopy"
+338 "scanning tunneling microscopy"
+339 "singular value decomposition"
+340 "clustering"
+341 "massive open online courses (mooc)"
+342 "learning tool interface"
+343 "authoring tool"
+344 "computational science education"
+345 "knowledge graphs"
+346 "reasoning"
+347 "probabilistic reasoning"
+348 "reactive visualizations"
+349 "data exploration"
+350 "data centre"
+351 "workload modelling"
+352 "mixture normal distribution"
+353 "distribution fitting"
+354 "scientific data management"
+355 "impedance mismatch"
+356 "data transparency"
+357 "interactive data exploration"
+358 "road damage"
+359 "detection"
+360 "geoprocessing"
+361 "liss iii data"
+362 "ndvi"
+363 "online spatial analysis"
+364 "jupyterhub"
+365 "knn algorithm"
+366 "distance metric"
+367 "entropy method"
+368 "weighting"
+369 "overlays"
+370 "fpga"
+371 "sobel filter"
+372 "pointer networks"
+373 "traveling salesman problem"
+374 "theano"
+375 "pynq"
+376 "mobile agents"
+377 "filter system"
+378 "naive bayesian filter"
+379 "ddos attack"
+380 "distributed system"
+381 "intrusion detection"
+382 "problem-based learning"
+383 "software engineering teaching"
+384 "agile methods"
+385 "jira"
+386 "learning analytics"
+387 "computational tool"
+388 "is-lm model"
+389 "interactive computing"
+390 "language workbenches"
+391 "domain-specific languages"
+392 "literate programming"
+393 "simulation definition and automation"
+394 "post-processing"
+395 "network animation"
+396 "statistical analysis"
+397 "integrated environments"
+398 "julia"
+399 "interaction"
+400 "graphics"
+401 "mathematics"
+402 "gap"
+403 "partial reconfiguration"
+404 "linux"
+405 "snow"
+406 "open data cube"
+407 "switzerland"
+408 "cf mask"
+409 "virtual observatory"
+410 "scalability"
+411 "qsar"
+412 "molecular modeling"
+413 "colab"
+414 "convolutional neural networks"
+415 "google colaboratory"
+416 "gpu computing"
+417 "ensemble methods"
+418 "voronoi tesselation"
+419 "reproducible research"
+420 "interactive scientific computing"
+421 "collaboration"
+422 "notebook systems"
+423 "galaxies: clusters: general"
+424 "bioconductor workflows"
+425 "containers"
+426 "automated"
+427 "strength analysis"
+428 "cad"
+429 "fem"
+430 "cae"
+431 "file sharing"
+432 "storage synchronisation"
+433 "cloud"
+434 "mining"
+435 "growth phenotypes"
+436 "automated trait analysis"
+437 "feature extraction"
+438 "computer vision"
+439 "software engineering"
+440 "arabidopsis"
+441 "wheat"
+442 "upper-division undergraduate"
+443 "interdisciplinary/multidisciplinary"
+444 "computer-based learning kinetics"
+445 "polymerization"
+446 "alkali atom"
+447 "matrix elements"
+448 "dipole-dipole interactions"
+449 "stark shift"
+450 "forster resonances"
+451 "encoding models"
+452 "decoding models"
+453 "predictive modeling"
+454 "tutorials"
+455 "electrophysiology/evoked potentials"
+456 "electrocorticography (ecog)"
+457 "machine learning applied to neuroscience"
+458 "natural stimuli"
+459 "seawater intrusion"
+460 "analytic solution"
+461 "biomechanics"
+462 "posturography"
+463 "stabilography"
+464 "posture"
+465 "motor control"
+466 "large-scale structure of universe-methods"
+467 "numerical"
+468 "planetary systems"
+469 "planets and satellites: detection"
+470 "techniques: high angular resolution"
+471 "calcium imaging"
+472 "analysis software"
+473 "python programming"
+474 "microscopy"
+475 "fluorescence"
+476 "curriculum"
+477 "computer-based learning"
+478 "mathematics/symbolic mathematics"
+479 "flux analysis"
+480 "c-13 metabolic flux analysis"
+481 "-omics data"
+482 "predictive biology"
+483 "e-science"
+484 "executable workflow"
+485 "indicator"
+486 "ipython notebook"
+487 "use case methodology"
+488 "agent based modeling"
+489 "food chain"
+490 "foraging"
+491 "ecosystem balance"
+492 "virtual laboratory"
+493 "electronic notes"
+494 "narrative linear thread"
+495 "hpc"
+496 "mit supercloud"
+497 "open source recommender systems"
+498 "temporal evaluation"
+499 "ranking prediction by online learning"
+500 "streaming"
+501 "concept drift"
+502 "big-data"
+503 "repository"
+504 "web platform"
+505 "online analysis"
+506 "latex"
+507 "html"
+508 "hypertext"
+509 "scientific programming"
+510 "matse"
+511 "trade studies"
+512 "knowledge management"
+513 "model-based systems engineering"
+514 "clinical studies"
+515 "array"
+516 "regularities"
+517 "data sharing and reuse"
+518 "blended learning"
+519 "apache zeppelin"
+520 "parallel computing"
+521 "human migration"
+522 "computational social science"
+523 "global open simulator"
+524 "healthcare data analytics"
+525 "analytics application"
+526 "qt"
+527 "experiment control"
+528 "automation"
+529 "measurement software"
+530 "framework"
+531 "modular"
+532 "literate computing"
+533 "interactive notebooks"
+534 "real-time collaboration"
+535 "reprogrammable systems"
+536 "numerical modeling"
+537 "catalog services"
+538 "data services"
+539 "web services"
+540 "ocean forecasting"
+541 "ocean modeling"
+542 "data system"
+543 "opendap"
+544 "thredds"
+545 "csw"
+546 "uncertainty analysis"
+547 "fosm"
+548 "model independent"
+549 "highly-parameterized"
+550 "data worth analysis"
+551 "electronic notebook"
+552 "neurophysiology"
+553 "electrophysiology"
+554 "magnetics information consortium"
+555 "magic database"
+556 "pmagpy software package"
+557 "paleomagnetic and rock magnetic database"
+558 "metabolic engineering"
+559 "saccharomyces cerevisiae"
+560 "d-xylose"
+561 "synthetic biology"
+562 "optogenetics"
+563 "opsin"
+564 "pyrho"
+565 "spiking neurons"
+566 "neuron simulator"
+567 "brian simulator"
+568 "stem"
+569 "e-learning"
+570 "modelling as a service"
+571 "portal jupyter"
+572 "computational neuroscience"
+573 "binary tree"
+574 "data compression"
+575 "huffman algorithm"
+576 "ijulia"
+577 "julia language"
+578 "kernel"
+579 "prefix code"
+580 "big data analytics"
+581 "data mining"
+582 "data visualizations"
+583 "healthcare"
+584 "hospital systems"
+585 "interactive big data"
+586 "patient data"
+587 "usability"
+588 "agile"
+589 "collaborative"
+590 "reproducible"
+591 "scalable"
+592 "smart grid"
+593 "spark"
+594 "telescope and instruments"
+595 "telemetry"
+596 "panda"
+597 "mass spectrometry imaging"
+598 "maldi"
+599 "openmsi"
+600 "teaching-learning process"
+601 "scientific methodology"
+602 "neural networks"
+603 "tools"
+604 "languages"
+605 "research code"
+606 "scidb"
+607 "metabolite atlas"
+608 "lc/ms"
+609 "ms/ms"
+610 "biology"
+611 "coastal ocean observing"
+612 "ocean circulation model"
+613 "skill metrics"
+614 "sensor observation service"
+615 "social networking analysis"
+616 "centralities"
+617 "twitter"
+618 "python framework"
+619 "asteroids"
+620 "data reduction techniques"
+621 "near-earth objects"
+622 "neatm"
+623 "artificial neural networks"
+624 "variable importance in projection"
+625 "data sharing"
+626 "drug design"
+627 "drug discovery"
+628 "degree apprenticeship"
+629 "graduate apprenticeship"
+630 "introduction"
+631 "integrated development environment"
+632 "parallelizing compiler"
+633 "program transformations"
+634 "wed ide"
+635 "data visualization"
+636 "quality control"
+637 "scripting"
+638 "academic performance"
+639 "edm"
+640 "educational data mining"
+641 "knn"
+642 "logical regression"
+643 "ministry of education"
+644 "nave bayes"
+645 "students performance"
+646 "svm"
+647 "qiskit"
+648 "quantum computer"
+649 "qubit"
+650 "student"
+651 "tutorial"
+652 "change detection"
+653 "deforestation"
+654 "dual polarization sar"
+655 "flood monitoring"
+656 "port activity"
+657 "uranium mining"
+658 "fractional linear transformations"
+659 "lie spheres geometry"
+660 "mbius transformations"
+661 "symbolic computations"
+662 "qspr"
+663 "quantitative structure-activity relationship"
+664 "quantitative structure-property relationship"
+665 "research reproducibility"
+666 "structure-activity relationship"
+667 "methyl methacrylate"
+668 "tetrachloroethylene"
+669 "tga"
+670 "chameleon"
+671 "application programming interface"
+672 "clinical data"
+673 "hackathon"
+674 "multi-institutional collaboration"
+675 "team science"
+676 "curriculum development"
+677 "global liberal arts education"
+678 "ict-enhanced agile learning environment"
+679 "transcendence in learning"
+680 "cloud tpu"
+681 "ising model"
+682 "markov chain monte carlo"
+683 "influenza"
+684 "replicability"
+685 "crime analysis"
+686 "geospatial analytics"
+687 "in-database analytics"
+688 "maps"
+689 "spatial data"
+690 "emergency evacuation"
+691 "flood"
+692 "natural disaster"
+693 "fast r-cnn"
+694 "faster r-cnn"
+695 "image classification"
+696 "mask r-cnn"
+697 "object detection"
+698 "r-cnn"
+699 "region proposal networks"
+700 "retinanet"
+701 "single shot multibox detector (ssd)"
+702 "you only look once (yolo)"
+703 "aspect"
+704 "explanation"
+705 "generation"
+706 "multi-criteria"
+707 "multi-objective learning"
+708 "multi-stakeholder"
+709 "recommendation"
+710 "review mining"
+711 "utility"
+712 "feature engineering"
+713 "knowledge base"
+714 "data transfer nodes"
+715 "measurement"
+716 "numa"
+717 "nvme over fabrics"
+718 "scinet"
+719 "engineering teaching"
+720 "inclusive pedagogy"
+721 "learning models"
+722 "lms"
+723 "flipped class"
+724 "open-source"
+725 "symbolic computation"
+726 "exploratory data analysis (eda)"
+727 "matpplotlib"
+728 "pandas"
+729 "seaborn"
+730 "robotic"
+731 "recommender systems"
+732 "graduate education/research"
+733 "quantum chemistry"
+734 "classification"
+735 "hdfs"
+736 "parkinsons disease"
+737 "sci-kit learn"
+738 "content analysis"
+739 "sentiment analysis"
+740 "sharing economy"
+741 "text network analysis"
+742 "topic modeling"
+743 "cybergis-jupyter"
+744 "geographic information science and systems (gis)"
+745 "hydrologic modeling"
+746 "boinc"
+747 "hubzero"
+748 "mygeohub"
+749 "nanohub"
+750 "purr"
+751 "xsede"
+752 "brain mapping"
+753 "image registration"
+754 "neuroimaging"
+755 "interactive"
+756 "open ondemand"
+757 "osc"
+758 "shiny"
+759 "air quality index"
+760 "auto arima model"
+761 "linear regression"
+762 "stepwise regression"
+763 "tableau public"
+764 "knearest neighbors"
+765 "naive bayes"
+766 "predictive model"
+767 "language server protocol"
+768 "static analysis"
+769 "tool support"
+770 "chapel"
+771 "agile methodologies"
+772 "cs2-based course"
+773 "data engineering"
+774 "online experimentation"
+775 "programming labs"
+776 "geosensors"
+777 "hydrodynamics modeling"
+778 "hydroinformatics"
+779 "river simulation"
+780 "web-based platform"
+781 "behavior monitoring"
+782 "data quality"
+783 "human-inthe-loop"
+784 "video analysis"
+785 "github"
+786 "convolution neural networks"
+787 "keras api"
+788 "open cv2"
+789 "tensorflow"
+790 "physics education"
+791 "pre-service teacher"
+792 "teaching materials"
+793 "ides jupyter notebook"
+794 "kneighbors classifier and using multinomial logistic regression algorithm"
+795 "power system real faults"
+796 "python and ms excel.python libraries numpy"
+797 "graalsqueak"
+798 "graalvm"
+799 "polyglot programming"
+800 "approximate circuits"
+801 "compressor"
+802 "supervised learning"
+803 "bbc micro:bits"
+804 "code camp"
+805 "csg-ed"
+806 "ds4sg"
+807 "outreach (middle school)"
+808 "nave bayesian filter"
+809 "engineering courses"
+810 "online resources"
+811 "course material"
+812 "photonic circuit design"
+813 "photonic integrated circuit"
+814 "genepattern notebook"
+815 "pre-processing"
+816 "scrna-seq"
+817 "single-cell expression"
+818 "astm e3012"
+819 "brightway2"
+820 "ecoinvent"
+821 "life cycle assessment"
+822 "life cycle inventory data"
+823 "unit manufacturing process"
+824 "mining digital libraries"
+825 "palladio"
+826 "scandinavian noir"
+827 "zotero"
+828 "computational notebook"
+829 "openstreetmap"
+830 "osmnx"
+831 "street network"
+832 "urban planning"
+833 "direct and inverse approaches"
+834 "fit"
+835 "pca"
+836 "spectral decomposition"
+837 "xanes"
+838 "digital archives"
+839 "knowledge discovery"
+840 "services"
+841 "opinion mining"
+842 "reviews"
+843 "social network"
+844 "constant heat flux"
+845 "forced convection"
+846 "micropolar fluid"
+847 "quiescent fluid"
+848 "causal structure identification"
+849 "gaussian process dynamical systems"
+850 "learning from multiple data sources"
+851 "nonlinear dynamical systems"
+852 "spatiotemporal models"
+853 "high-throughput analytics"
+854 "image processing"
+855 "multiplex imaging"
+856 "calculus"
+857 "data collection"
+858 "global positioning"
+859 "numerical analysis"
+860 "project-based learning"
+861 "engineering biology"
+862 "two-scale 13c metabolic flux analysis"
+863 "barplots"
+864 "matlab"
+865 "raincloud plots"
+866 "cytargetlinker"
+867 "network extension"
+868 "network visualization"
+869 "regulatory networks"
+870 "conumee"
+871 "copy number variation"
+872 "dna methylation"
+873 "illumina infinium methylation arrays"
+874 "minfi"
+875 "r/bioconductor"
+876 "anaconda"
+877 "classification technique"
+878 "scikit-learn"
+879 "and phrases: computational notebook"
+880 "cell folding"
+881 "exploratory programming"
+882 "versioning"
+883 "arab-andalusian music"
+884 "research corpus"
+885 "data interpretation"
+886 "data use"
+887 "environmental knowledge infrastructures"
+888 "environmental research infrastructures"
+889 "informatics"
+890 "linked data"
+891 "semantic information"
+892 "geographic information systems"
+893 "gis"
+894 "rstudio"
+895 "pearc proceedings"
+896 "interfaces"
+897 "management"
+898 "arduino"
+899 "aws"
+900 "elasticsearch"
+901 "environmental monitoring"
+902 "internet of things"
+903 "lorawan"
+904 "mqtt"
+905 "white spaces"
+906 "apache spark"
+907 "terrier ir platform"
+908 "edx"
+909 "online education"
+910 "science of learning"
+911 "3d printing"
+912 "additive manufacturing"
+913 "digital thread"
+914 "quality assurance"
+915 "biginsights arcgis"
+916 "earth data analysis and processing"
+917 "geosciences"
+918 "gis big data analytics"
+919 "code"
+920 "emacs"
+921 "org-mode"
+922 "scientific computing"
+923 "conversational agents"
+924 "narrative"
+925 "active learning"
+926 "cs1"
+927 "learning cycle"
+928 "pogil"
+929 "distributed training"
+930 "genetic algorithms"
+931 "hyperparameter optimization"
+932 "course design"
+933 "digital artifacts"
+934 "distributed leadership"
+935 "pedagogy"
+936 "solo taxonomy"
+937 "remote desktop"
+938 "computing education"
+939 "knowledge tracing"
+940 "recurrent neural networks (rnn)"
+941 "student modeling"
+942 "cardiovascular disease (cvd)"
+943 "heart disease"
+944 "world health organization (who)"
+945 "ontology"
+946 "provenance"
+947 "rdf"
+948 "decision tree"
+949 "logistic regression"
+950 "machine learning techniques"
+951 "multistability"
+952 "ordinary differential equations"
+953 "positional information"
+954 "seg-mentation"
+955 "base excitation"
+956 "modal parameters"
+957 "space payload"
+958 "structural dynamics"
+959 "13c metabolic flux analysis"
+960 "active learning and ict support"
+961 "development and assessment of competences"
+962 "innovative experiences in engineering education"
+963 "interdisciplinary"
+964 "interactive supercomputing"
+965 "algorithms"
+966 "computation"
+967 "fenics"
+968 "ipython machine learning"
+969 "signal processing"
+970 "collaboration platform"
+971 "data scientist"
+972 "component value-at-risk"
+973 "expected shortfall"
+974 "finance"
+975 "nested monte carlo simulations"
+976 "pyopencl"
+977 "real-time portfolio risk management"
+978 "value-at-risk"
+979 "business education"
+980 "mobile technology"
+981 "online learning"
+982 "flood mapping"
+983 "interactive analysis"
+984 "secure data enclave"
+985 "imbalanced classes"
+986 "precision-recall"
+987 "roc"
+988 "agent-based macroeconomics"
+989 "computational economics"
+990 "computational techniques"
+991 "economic simulation"
+992 "simulation modeling"
+993 "designsafe-ci"
+994 "gui"
+995 "hurricane matthew"
+996 "nheri"
+997 "wireless sensor network"
+998 "application containers"
+999 "applied computing"
+1000 "scientific workflows"
+1001 "virtualization"
+1002 "concept lattices"
+1003 "conjunctive queries"
+1004 "power context families"
+*Edges
+1 2 1
+1 3 1
+1 4 1
+1 5 1
+1 6 1
+1 7 1
+1 8 1
+1 9 1
+1 10 1
+2 3 1
+2 4 1
+2 5 1
+2 6 1
+2 7 1
+2 8 1
+2 9 1
+2 10 1
+3 4 1
+3 5 1
+3 6 1
+3 7 1
+3 8 1
+3 9 1
+3 10 1
+4 5 1
+4 6 1
+4 7 1
+4 8 1
+4 9 1
+4 10 1
+5 6 2
+5 7 1
+5 8 1
+5 9 1
+5 10 1
+5 23 1
+5 29 1
+5 34 1
+5 77 1
+5 115 1
+5 133 1
+5 300 1
+5 743 1
+5 744 1
+5 745 1
+5 929 1
+5 930 1
+5 931 1
+6 7 1
+6 8 1
+6 9 1
+6 10 1
+6 23 1
+6 28 1
+6 29 1
+6 34 1
+6 35 1
+6 47 2
+6 76 1
+6 81 1
+6 88 1
+6 89 1
+6 90 2
+6 91 2
+6 115 1
+6 130 1
+6 131 1
+6 137 1
+6 153 1
+6 164 1
+6 165 1
+6 197 1
+6 212 1
+6 213 1
+6 214 1
+6 215 1
+6 216 1
+6 300 1
+6 331 1
+6 364 1
+6 370 1
+6 409 1
+6 410 1
+6 562 1
+6 564 1
+6 570 1
+6 571 1
+6 572 1
+6 631 1
+6 632 1
+6 633 1
+6 634 1
+6 635 1
+6 636 1
+6 637 1
+7 8 1
+7 9 1
+7 10 1
+8 9 1
+8 10 1
+9 10 1
+10 15 1
+10 16 1
+10 17 1
+10 18 1
+10 19 1
+10 20 1
+10 21 1
+10 22 1
+10 23 2
+10 24 1
+10 25 1
+10 26 1
+10 89 4
+10 90 1
+10 127 2
+10 159 4
+10 195 1
+10 197 1
+10 244 2
+10 245 2
+10 419 1
+10 483 1
+10 484 1
+10 485 1
+10 486 1
+10 487 1
+10 517 1
+10 625 1
+10 626 1
+10 627 1
+11 12 1
+11 13 1
+11 14 1
+12 13 1
+12 14 1
+13 14 1
+13 35 8
+13 42 1
+13 52 3
+13 60 2
+13 67 1
+13 71 1
+13 73 1
+13 74 1
+13 75 1
+13 76 2
+13 89 1
+13 90 1
+13 115 2
+13 116 1
+13 117 1
+13 118 1
+13 119 1
+13 127 3
+13 139 1
+13 144 1
+13 145 1
+13 146 2
+13 147 1
+13 148 1
+13 149 1
+13 150 1
+13 151 1
+13 152 1
+13 193 1
+13 194 1
+13 224 1
+13 225 1
+13 226 1
+13 260 1
+13 261 1
+13 300 1
+13 306 1
+13 307 1
+13 308 1
+13 309 1
+13 340 1
+13 341 1
+13 342 1
+13 343 1
+13 344 1
+13 364 1
+13 387 1
+13 388 1
+13 411 1
+13 412 1
+13 459 1
+13 460 1
+13 486 1
+13 492 1
+13 493 1
+13 494 1
+13 495 1
+13 496 1
+13 511 1
+13 512 1
+13 513 1
+13 524 1
+13 525 1
+13 600 1
+13 601 1
+13 652 1
+13 653 1
+13 654 1
+13 655 1
+13 656 1
+13 657 1
+13 724 2
+13 726 1
+13 727 1
+13 728 2
+13 729 2
+13 734 1
+13 735 1
+13 736 1
+13 737 1
+13 755 2
+13 759 1
+13 760 1
+13 761 1
+13 762 1
+13 763 1
+13 785 1
+13 786 1
+13 787 1
+13 788 1
+13 789 1
+13 809 1
+13 810 1
+13 814 2
+13 815 2
+13 816 1
+13 817 1
+13 828 1
+13 864 1
+13 870 1
+13 871 1
+13 872 1
+13 873 1
+13 874 1
+13 875 1
+13 879 1
+13 880 1
+13 895 1
+13 915 1
+13 916 1
+13 917 1
+13 918 1
+13 924 1
+13 972 1
+13 973 1
+13 974 1
+13 975 1
+13 976 1
+13 977 1
+13 978 1
+13 983 1
+13 984 1
+15 16 1
+15 17 1
+15 18 1
+15 19 1
+15 20 1
+15 21 1
+15 22 1
+15 23 1
+15 24 1
+15 25 1
+15 26 1
+15 310 1
+15 311 1
+15 312 1
+16 17 1
+16 18 1
+16 19 1
+16 20 1
+16 21 1
+16 22 1
+16 23 2
+16 24 1
+16 25 1
+16 26 1
+16 89 1
+16 104 1
+16 331 2
+16 332 1
+16 333 1
+16 536 1
+16 537 2
+16 538 1
+16 539 1
+16 540 1
+16 541 1
+16 542 1
+16 543 1
+16 544 1
+16 545 1
+16 611 1
+16 612 1
+16 613 1
+16 614 1
+17 18 1
+17 19 1
+17 20 1
+17 21 1
+17 22 1
+17 23 1
+17 24 1
+17 25 1
+17 26 1
+18 19 1
+18 20 1
+18 21 1
+18 22 1
+18 23 1
+18 24 1
+18 25 1
+18 26 1
+19 20 1
+19 21 1
+19 22 1
+19 23 1
+19 24 1
+19 25 1
+19 26 1
+20 21 1
+20 22 1
+20 23 1
+20 24 1
+20 25 1
+20 26 1
+21 22 1
+21 23 1
+21 24 1
+21 25 1
+21 26 1
+22 23 1
+22 24 1
+22 25 1
+22 26 1
+23 24 1
+23 25 1
+23 26 1
+23 29 1
+23 35 1
+23 69 1
+23 70 1
+23 71 1
+23 72 1
+23 89 2
+23 104 1
+23 115 1
+23 159 1
+23 300 1
+23 310 1
+23 331 1
+23 348 1
+23 349 1
+23 517 1
+23 536 1
+23 537 1
+23 538 1
+23 539 1
+23 540 1
+23 541 1
+23 542 1
+23 543 1
+23 544 1
+23 545 1
+23 723 1
+23 724 1
+23 725 1
+23 811 1
+23 812 1
+23 813 1
+23 818 1
+23 819 1
+23 820 1
+23 821 1
+23 822 1
+23 823 1
+23 906 1
+23 907 1
+24 25 1
+24 26 1
+25 26 1
+27 28 1
+27 29 1
+27 30 1
+27 31 1
+27 32 1
+27 33 1
+27 34 1
+27 35 1
+27 36 1
+28 29 1
+28 30 1
+28 31 1
+28 32 1
+28 33 1
+28 34 1
+28 35 1
+28 36 1
+28 370 1
+28 631 1
+28 632 1
+28 633 1
+28 634 1
+29 30 1
+29 31 1
+29 32 1
+29 33 1
+29 34 1
+29 35 1
+29 36 1
+29 115 1
+29 300 1
+30 31 1
+30 32 1
+30 33 1
+30 34 1
+30 35 1
+30 36 1
+31 32 1
+31 33 1
+31 34 1
+31 35 1
+31 36 1
+32 33 1
+32 34 1
+32 35 1
+32 36 1
+33 34 5
+33 35 1
+33 36 1
+33 325 1
+33 504 2
+33 593 1
+33 755 2
+33 756 2
+33 757 2
+33 758 1
+33 894 1
+33 896 2
+33 897 2
+33 964 1
+34 35 15
+34 36 1
+34 44 1
+34 47 3
+34 48 2
+34 49 1
+34 50 1
+34 51 1
+34 52 3
+34 53 2
+34 57 1
+34 58 1
+34 59 1
+34 60 5
+34 61 3
+34 62 1
+34 63 1
+34 67 1
+34 71 1
+34 76 2
+34 77 1
+34 82 1
+34 88 1
+34 89 4
+34 90 2
+34 91 1
+34 102 1
+34 109 1
+34 115 5
+34 117 1
+34 127 3
+34 133 1
+34 135 1
+34 136 1
+34 137 2
+34 139 3
+34 146 2
+34 151 1
+34 166 1
+34 167 1
+34 197 1
+34 198 1
+34 199 1
+34 200 1
+34 201 1
+34 202 1
+34 224 1
+34 234 2
+34 235 2
+34 236 2
+34 237 2
+34 238 2
+34 239 2
+34 270 1
+34 283 1
+34 284 1
+34 285 1
+34 290 1
+34 300 1
+34 325 1
+34 364 1
+34 393 1
+34 394 1
+34 395 1
+34 396 1
+34 397 1
+34 398 1
+34 399 1
+34 400 1
+34 401 1
+34 402 1
+34 405 1
+34 406 1
+34 407 1
+34 408 1
+34 411 1
+34 419 2
+34 427 1
+34 428 2
+34 429 2
+34 430 2
+34 433 1
+34 466 1
+34 467 2
+34 488 1
+34 504 1
+34 506 1
+34 507 1
+34 508 1
+34 509 2
+34 510 1
+34 518 1
+34 519 1
+34 520 1
+34 521 1
+34 522 1
+34 523 1
+34 551 1
+34 552 1
+34 553 1
+34 562 1
+34 563 1
+34 564 1
+34 565 1
+34 566 1
+34 567 1
+34 573 1
+34 574 1
+34 575 1
+34 576 1
+34 577 1
+34 578 1
+34 579 1
+34 581 1
+34 590 1
+34 591 1
+34 592 1
+34 593 2
+34 594 1
+34 595 1
+34 596 1
+34 597 1
+34 598 1
+34 599 1
+34 623 1
+34 624 1
+34 641 1
+34 662 1
+34 663 1
+34 664 1
+34 665 1
+34 666 1
+34 670 1
+34 726 1
+34 728 2
+34 746 1
+34 747 1
+34 748 1
+34 749 1
+34 750 1
+34 751 1
+34 755 1
+34 756 1
+34 757 1
+34 770 1
+34 771 1
+34 772 1
+34 773 1
+34 774 1
+34 775 1
+34 789 1
+34 802 1
+34 803 1
+34 804 1
+34 805 1
+34 806 1
+34 807 1
+34 824 1
+34 825 1
+34 826 1
+34 827 1
+34 828 1
+34 829 1
+34 830 1
+34 831 1
+34 832 1
+34 854 1
+34 856 1
+34 857 1
+34 858 1
+34 859 1
+34 860 1
+34 864 1
+34 876 1
+34 877 1
+34 878 1
+34 894 1
+34 896 2
+34 897 2
+34 898 1
+34 899 1
+34 900 1
+34 901 1
+34 902 1
+34 903 1
+34 904 1
+34 905 1
+34 919 1
+34 920 1
+34 921 1
+34 922 1
+34 929 1
+34 930 1
+34 931 1
+34 937 1
+34 964 1
+34 965 1
+34 966 1
+34 967 1
+34 968 1
+34 969 1
+34 970 1
+34 971 1
+34 993 1
+34 994 1
+34 995 1
+34 996 1
+34 997 1
+34 998 1
+34 999 1
+34 1000 1
+34 1001 1
+35 36 1
+35 42 1
+35 47 1
+35 52 4
+35 53 2
+35 60 2
+35 67 1
+35 71 1
+35 76 5
+35 77 2
+35 82 1
+35 89 1
+35 109 1
+35 112 1
+35 115 1
+35 120 1
+35 121 1
+35 122 1
+35 123 1
+35 124 1
+35 125 1
+35 126 1
+35 127 2
+35 128 1
+35 129 1
+35 135 1
+35 136 1
+35 137 2
+35 138 1
+35 139 4
+35 140 1
+35 146 3
+35 151 1
+35 155 2
+35 164 1
+35 165 1
+35 175 1
+35 178 1
+35 179 1
+35 180 1
+35 181 1
+35 182 1
+35 183 1
+35 184 1
+35 185 1
+35 186 1
+35 187 1
+35 188 1
+35 189 1
+35 190 1
+35 191 1
+35 192 1
+35 193 2
+35 194 1
+35 195 1
+35 196 1
+35 207 1
+35 208 1
+35 209 1
+35 210 1
+35 211 1
+35 224 1
+35 240 1
+35 270 1
+35 271 1
+35 290 1
+35 321 1
+35 322 1
+35 323 1
+35 324 1
+35 325 3
+35 360 1
+35 361 1
+35 362 1
+35 363 1
+35 364 1
+35 386 1
+35 394 1
+35 411 2
+35 412 1
+35 417 1
+35 418 1
+35 419 2
+35 459 1
+35 460 1
+35 466 1
+35 467 2
+35 488 2
+35 492 1
+35 509 1
+35 520 1
+35 521 1
+35 522 1
+35 523 1
+35 546 1
+35 547 1
+35 548 1
+35 549 1
+35 550 1
+35 551 1
+35 552 1
+35 553 1
+35 562 1
+35 563 1
+35 564 1
+35 565 1
+35 566 1
+35 567 1
+35 590 1
+35 602 1
+35 603 2
+35 604 1
+35 606 1
+35 607 1
+35 608 1
+35 609 1
+35 610 1
+35 628 1
+35 629 1
+35 630 1
+35 635 1
+35 652 1
+35 653 1
+35 654 1
+35 655 1
+35 656 1
+35 657 1
+35 662 1
+35 663 1
+35 664 1
+35 665 1
+35 666 1
+35 667 1
+35 668 1
+35 669 1
+35 685 1
+35 686 1
+35 687 1
+35 688 1
+35 689 1
+35 723 1
+35 724 1
+35 725 1
+35 726 1
+35 728 3
+35 729 2
+35 731 1
+35 734 1
+35 735 1
+35 736 1
+35 737 1
+35 759 1
+35 760 1
+35 761 1
+35 762 1
+35 763 1
+35 770 1
+35 789 1
+35 790 1
+35 791 1
+35 792 1
+35 793 1
+35 794 1
+35 795 1
+35 796 1
+35 824 1
+35 825 1
+35 826 1
+35 827 1
+35 828 1
+35 829 1
+35 830 1
+35 831 1
+35 832 1
+35 854 1
+35 856 1
+35 857 1
+35 858 1
+35 859 1
+35 860 1
+35 863 1
+35 864 2
+35 865 1
+35 878 1
+35 908 1
+35 909 1
+35 910 1
+35 915 1
+35 916 1
+35 917 1
+35 918 1
+35 919 1
+35 920 1
+35 921 1
+35 922 1
+35 951 1
+35 952 1
+35 953 1
+35 954 1
+35 955 1
+35 956 1
+35 957 1
+35 958 1
+35 965 1
+35 966 1
+35 967 1
+35 968 1
+35 969 1
+35 972 1
+35 973 1
+35 974 1
+35 975 1
+35 976 1
+35 977 1
+35 978 1
+35 985 1
+35 986 1
+35 987 1
+35 988 1
+35 989 1
+35 990 1
+35 991 1
+35 992 1
+35 998 1
+35 999 1
+35 1000 1
+35 1001 1
+37 38 1
+37 39 1
+37 40 1
+37 41 1
+38 39 1
+38 40 1
+38 41 1
+39 40 1
+39 41 1
+40 41 1
+42 43 1
+42 44 1
+42 45 1
+42 46 1
+42 652 1
+42 653 1
+42 654 1
+42 655 1
+42 656 1
+42 657 1
+43 44 1
+43 45 1
+43 46 1
+44 45 1
+44 46 1
+44 405 1
+44 406 1
+44 407 1
+44 408 1
+45 46 1
+47 48 2
+47 49 1
+47 50 1
+47 51 1
+47 52 2
+47 53 1
+47 60 2
+47 76 2
+47 81 1
+47 90 1
+47 91 1
+47 197 1
+47 212 1
+47 213 1
+47 214 1
+47 215 1
+47 216 1
+47 331 1
+47 597 1
+47 598 1
+47 599 1
+47 606 1
+47 607 1
+47 608 1
+47 609 1
+47 610 1
+47 623 1
+47 624 1
+47 635 1
+47 636 1
+47 637 1
+48 49 1
+48 50 1
+48 51 1
+48 52 2
+48 53 1
+48 623 1
+48 624 1
+49 50 1
+49 51 1
+49 52 1
+49 53 1
+50 51 2
+50 52 2
+50 53 1
+50 252 1
+50 386 1
+50 638 1
+50 639 1
+50 640 1
+50 641 1
+50 642 1
+50 643 1
+50 644 1
+50 645 1
+50 646 1
+50 761 1
+50 764 1
+50 765 1
+50 766 1
+50 943 1
+50 948 1
+50 949 1
+50 950 1
+51 52 2
+51 53 1
+51 386 1
+51 638 1
+51 639 1
+51 640 1
+51 641 1
+51 642 1
+51 643 1
+51 644 1
+51 645 1
+51 646 1
+52 53 1
+52 67 1
+52 76 1
+52 77 1
+52 90 1
+52 139 2
+52 146 2
+52 224 1
+52 225 1
+52 226 1
+52 241 1
+52 242 1
+52 243 1
+52 271 1
+52 279 1
+52 280 1
+52 281 1
+52 282 1
+52 286 1
+52 287 1
+52 288 1
+52 345 1
+52 346 1
+52 347 1
+52 364 1
+52 376 2
+52 377 2
+52 378 1
+52 379 2
+52 380 2
+52 381 2
+52 386 1
+52 417 1
+52 418 1
+52 602 1
+52 603 1
+52 604 1
+52 623 1
+52 624 1
+52 638 1
+52 639 1
+52 640 1
+52 641 2
+52 642 1
+52 643 1
+52 644 1
+52 645 1
+52 646 1
+52 728 2
+52 729 1
+52 734 2
+52 735 1
+52 736 1
+52 737 1
+52 802 1
+52 808 1
+52 833 1
+52 834 1
+52 835 1
+52 836 1
+52 837 1
+52 876 1
+52 877 1
+52 878 2
+52 942 1
+52 943 1
+52 944 1
+52 985 1
+52 986 1
+52 987 1
+53 60 1
+53 71 1
+53 192 1
+53 193 1
+53 194 1
+53 195 1
+53 196 1
+53 419 1
+53 551 1
+53 552 1
+53 553 1
+54 55 1
+54 56 3
+54 154 2
+54 155 2
+54 156 2
+55 56 1
+56 154 2
+56 155 2
+56 156 2
+57 58 1
+57 59 1
+57 60 1
+57 61 1
+57 62 1
+57 63 1
+58 59 1
+58 60 1
+58 61 1
+58 62 1
+58 63 1
+59 60 1
+59 61 1
+59 62 1
+59 63 1
+60 61 2
+60 62 1
+60 63 1
+60 71 1
+60 76 1
+60 115 1
+60 116 1
+60 117 1
+60 118 1
+60 119 1
+60 283 1
+60 284 1
+60 285 1
+60 387 1
+60 388 1
+60 419 1
+60 428 1
+60 433 1
+60 551 1
+60 552 1
+60 553 1
+60 594 1
+60 595 1
+60 596 1
+60 597 1
+60 598 1
+60 599 1
+60 606 1
+60 607 1
+60 608 1
+60 609 1
+60 610 1
+60 840 1
+61 62 1
+61 63 1
+61 89 2
+61 433 1
+61 594 1
+61 595 1
+61 596 1
+61 670 1
+61 797 1
+61 798 1
+61 799 1
+61 945 1
+61 946 1
+61 947 1
+62 63 1
+64 65 1
+64 66 1
+64 67 1
+64 68 1
+65 66 1
+65 67 1
+65 68 1
+66 67 1
+66 68 1
+67 68 1
+67 139 1
+67 146 1
+67 310 2
+67 580 2
+67 581 3
+67 582 2
+67 583 2
+67 584 2
+67 585 2
+67 586 2
+67 587 2
+67 591 1
+67 592 1
+67 593 1
+67 728 1
+67 729 1
+67 734 1
+67 735 1
+67 736 1
+67 737 1
+69 70 1
+69 71 1
+69 72 1
+70 71 1
+70 72 1
+71 72 1
+71 192 1
+71 193 1
+71 194 2
+71 195 1
+71 196 1
+71 283 1
+71 284 1
+71 285 1
+71 809 1
+71 810 1
+73 74 1
+73 75 1
+73 76 1
+74 75 1
+74 76 1
+75 76 1
+75 155 1
+75 224 1
+75 509 1
+75 510 1
+75 518 1
+75 568 1
+75 569 1
+75 730 1
+76 81 1
+76 82 1
+76 90 1
+76 91 1
+76 97 1
+76 98 1
+76 99 1
+76 100 1
+76 101 1
+76 115 1
+76 212 1
+76 213 1
+76 214 1
+76 215 1
+76 216 1
+76 222 1
+76 223 1
+76 224 1
+76 386 1
+76 509 1
+76 514 1
+76 515 1
+76 516 1
+76 606 1
+76 607 1
+76 608 1
+76 609 1
+76 610 1
+76 728 1
+76 828 1
+76 878 1
+76 908 1
+76 909 1
+76 910 1
+76 919 1
+76 920 1
+76 921 1
+76 922 1
+76 924 1
+76 985 1
+76 986 1
+76 987 1
+76 998 1
+76 999 1
+76 1000 1
+76 1001 1
+77 78 1
+77 79 1
+77 80 1
+77 240 1
+77 249 1
+77 250 1
+77 358 1
+77 359 1
+77 413 1
+77 414 1
+77 415 1
+77 416 1
+77 438 1
+77 602 1
+77 603 1
+77 604 1
+77 693 1
+77 694 1
+77 695 1
+77 696 1
+77 697 1
+77 698 1
+77 699 1
+77 700 1
+77 701 1
+77 702 1
+77 929 1
+77 930 1
+77 931 1
+77 938 1
+77 939 1
+77 940 1
+77 941 1
+78 79 1
+78 80 1
+78 246 1
+78 247 1
+78 248 1
+78 800 1
+78 801 1
+78 802 1
+79 80 1
+81 82 1
+81 83 1
+81 84 1
+81 85 1
+81 91 1
+81 212 1
+81 213 1
+81 214 1
+81 215 1
+81 216 1
+82 83 1
+82 84 1
+82 85 1
+82 222 1
+82 223 1
+82 325 1
+82 364 1
+82 419 1
+83 84 1
+83 85 1
+84 85 1
+86 87 1
+86 91 1
+86 141 1
+86 142 1
+86 143 1
+87 289 1
+87 290 1
+87 291 1
+87 292 1
+87 293 1
+88 89 1
+88 90 1
+88 91 1
+89 90 3
+89 91 1
+89 98 1
+89 102 2
+89 103 1
+89 104 2
+89 105 1
+89 106 1
+89 107 1
+89 109 1
+89 115 1
+89 127 2
+89 130 1
+89 137 1
+89 159 4
+89 195 1
+89 197 2
+89 198 1
+89 199 1
+89 200 1
+89 201 1
+89 202 1
+89 244 2
+89 245 2
+89 313 1
+89 314 1
+89 315 1
+89 316 1
+89 317 1
+89 318 1
+89 319 1
+89 320 1
+89 331 1
+89 411 1
+89 419 1
+89 424 1
+89 425 1
+89 426 1
+89 433 1
+89 488 1
+89 517 1
+89 536 1
+89 537 1
+89 538 1
+89 539 1
+89 540 1
+89 541 1
+89 542 1
+89 543 1
+89 544 1
+89 545 1
+89 590 1
+89 605 1
+89 625 1
+89 626 1
+89 627 1
+89 662 1
+89 663 1
+89 664 1
+89 665 1
+89 666 1
+89 670 1
+89 683 1
+89 684 1
+89 785 1
+89 945 1
+89 946 1
+89 947 1
+90 91 1
+90 159 1
+90 195 1
+90 197 2
+90 331 1
+90 345 1
+90 346 1
+90 347 1
+90 350 1
+90 351 1
+90 352 1
+90 353 1
+90 419 1
+90 424 1
+90 425 1
+90 426 1
+90 625 1
+90 626 1
+90 627 1
+90 635 1
+90 636 1
+90 637 1
+90 803 1
+90 804 1
+90 805 1
+90 806 1
+90 807 1
+90 828 1
+90 881 1
+90 882 1
+90 885 1
+90 886 1
+90 887 1
+90 888 1
+90 889 1
+90 890 1
+90 891 1
+90 923 1
+90 924 1
+91 141 1
+91 142 1
+91 143 1
+91 212 1
+91 213 1
+91 214 1
+91 215 1
+91 216 1
+91 334 1
+91 335 1
+91 336 1
+91 337 1
+91 338 1
+91 339 1
+91 340 1
+92 93 1
+92 94 1
+92 95 1
+92 96 1
+93 94 1
+93 95 1
+93 96 1
+94 95 1
+94 96 1
+95 96 1
+97 98 1
+97 99 1
+97 100 1
+97 101 1
+98 99 1
+98 100 1
+98 101 1
+98 313 1
+98 314 1
+98 315 1
+98 316 1
+99 100 1
+99 101 1
+99 479 1
+99 482 1
+99 959 1
+100 101 1
+101 103 1
+101 866 1
+101 867 1
+101 868 1
+101 869 1
+102 103 1
+102 104 1
+102 105 1
+102 106 1
+102 107 1
+102 115 1
+102 197 1
+102 198 1
+102 199 1
+102 200 1
+102 201 1
+102 202 1
+103 104 1
+103 105 1
+103 106 1
+103 107 1
+103 866 1
+103 867 1
+103 868 1
+103 869 1
+104 105 1
+104 106 1
+104 107 1
+104 108 1
+104 109 1
+104 110 1
+104 111 1
+104 112 1
+104 113 1
+104 114 1
+104 331 1
+104 536 1
+104 537 1
+104 538 1
+104 539 1
+104 540 1
+104 541 1
+104 542 1
+104 543 1
+104 544 1
+104 545 1
+105 106 1
+105 107 1
+106 107 1
+108 109 1
+108 110 1
+108 111 1
+108 112 1
+108 113 1
+108 114 1
+109 110 1
+109 111 1
+109 112 1
+109 113 1
+109 114 1
+109 411 1
+109 590 1
+109 662 1
+109 663 1
+109 664 1
+109 665 1
+109 666 1
+110 111 1
+110 112 1
+110 113 1
+110 114 1
+111 112 1
+111 113 1
+111 114 1
+112 113 1
+112 114 1
+112 360 1
+112 361 1
+112 362 1
+112 363 1
+113 114 1
+115 116 1
+115 117 2
+115 118 1
+115 119 1
+115 166 1
+115 167 1
+115 197 1
+115 198 1
+115 199 1
+115 200 1
+115 201 1
+115 202 1
+115 300 2
+115 428 1
+115 429 1
+115 430 1
+115 895 1
+115 970 1
+115 971 1
+115 998 1
+115 999 1
+115 1000 1
+115 1001 1
+116 117 1
+116 118 1
+116 119 1
+117 118 1
+117 119 1
+117 428 1
+117 429 1
+117 430 1
+117 767 1
+117 768 1
+117 769 1
+118 119 1
+120 121 1
+120 122 1
+121 122 1
+123 124 1
+123 125 1
+123 126 1
+123 127 1
+123 128 1
+123 129 1
+124 125 1
+124 126 1
+124 127 1
+124 128 1
+124 129 1
+125 126 1
+125 127 1
+125 128 1
+125 129 1
+126 127 1
+126 128 1
+126 129 1
+127 128 1
+127 129 1
+127 159 2
+127 244 2
+127 245 2
+127 290 1
+127 340 1
+127 393 1
+127 394 1
+127 395 1
+127 396 1
+127 397 1
+127 398 1
+127 399 1
+127 400 1
+127 401 1
+127 402 1
+127 466 1
+127 467 1
+127 724 2
+127 726 1
+127 727 1
+127 728 1
+127 729 1
+127 755 2
+127 814 2
+127 815 2
+127 816 1
+127 817 1
+127 870 1
+127 871 1
+127 872 1
+127 873 1
+127 874 1
+127 875 1
+128 129 1
+130 131 3
+130 132 1
+130 133 2
+130 134 1
+130 153 2
+130 488 2
+130 683 1
+130 684 1
+130 690 1
+130 691 1
+130 692 1
+130 982 1
+131 132 1
+131 133 2
+131 134 1
+131 153 2
+131 982 1
+132 133 1
+132 134 1
+133 134 1
+133 153 1
+133 743 1
+133 744 1
+133 745 1
+133 746 1
+133 747 1
+133 748 1
+133 749 1
+133 750 1
+133 751 1
+133 892 1
+133 893 1
+133 982 1
+135 136 1
+135 137 1
+136 137 2
+136 431 1
+136 432 1
+136 433 1
+136 434 1
+137 431 1
+137 432 1
+137 433 1
+137 434 1
+137 518 1
+137 519 1
+137 562 1
+137 564 1
+137 570 1
+137 571 1
+137 572 1
+137 605 1
+138 139 1
+138 140 1
+139 140 1
+139 146 3
+139 151 1
+139 467 1
+139 641 1
+139 726 1
+139 728 2
+139 729 1
+139 734 1
+139 735 1
+139 736 1
+139 737 1
+139 770 1
+139 789 1
+139 802 1
+139 854 1
+139 876 1
+139 877 1
+139 878 1
+139 965 1
+139 966 1
+139 967 1
+139 968 1
+139 969 1
+141 142 1
+141 143 1
+142 143 1
+144 145 1
+144 146 1
+144 147 1
+144 148 1
+144 149 1
+144 150 1
+144 151 1
+144 152 1
+145 146 1
+145 147 1
+145 148 1
+145 149 1
+145 150 1
+145 151 1
+145 152 1
+146 147 1
+146 148 1
+146 149 1
+146 150 1
+146 151 2
+146 152 1
+146 467 1
+146 641 1
+146 728 3
+146 729 2
+146 734 1
+146 735 1
+146 736 1
+146 737 1
+146 789 1
+146 793 1
+146 794 1
+146 795 1
+146 796 1
+146 802 1
+146 854 1
+146 876 1
+146 877 1
+146 878 1
+146 965 1
+146 966 1
+146 967 1
+146 968 1
+146 969 1
+147 148 1
+147 149 1
+147 150 1
+147 151 1
+147 152 1
+148 149 1
+148 150 1
+148 151 1
+148 152 1
+149 150 1
+149 151 1
+149 152 1
+150 151 1
+150 152 1
+151 152 1
+151 467 1
+151 789 1
+151 854 1
+151 965 1
+151 966 1
+151 967 1
+151 968 1
+151 969 1
+153 982 1
+154 155 2
+154 156 2
+155 156 2
+155 224 1
+155 628 1
+155 629 1
+155 630 1
+155 730 1
+155 790 1
+155 791 1
+155 792 1
+155 932 1
+155 933 1
+155 934 1
+155 935 1
+155 936 1
+157 158 1
+157 159 1
+157 160 1
+158 159 1
+158 160 1
+159 160 1
+159 195 1
+159 197 1
+159 244 2
+159 245 2
+159 419 1
+159 517 1
+159 625 1
+159 626 1
+159 627 1
+159 671 1
+159 672 1
+159 673 1
+159 674 1
+159 675 1
+161 162 1
+161 163 1
+162 163 1
+164 165 1
+166 167 1
+168 169 1
+168 170 1
+168 171 1
+169 170 1
+169 171 1
+169 619 1
+169 620 1
+169 621 1
+169 622 1
+170 171 1
+172 173 1
+172 174 1
+172 175 1
+172 176 1
+172 177 1
+173 174 1
+173 175 1
+173 176 1
+173 177 1
+174 175 1
+174 176 1
+174 177 1
+175 176 1
+175 177 1
+175 951 1
+175 952 1
+175 953 1
+175 954 1
+176 177 1
+178 179 1
+178 180 1
+178 181 1
+178 182 1
+178 183 1
+178 184 1
+178 185 1
+178 186 1
+178 187 1
+178 188 1
+178 189 1
+178 190 1
+178 191 1
+179 180 1
+179 181 1
+179 182 1
+179 183 1
+179 184 1
+179 185 1
+179 186 1
+179 187 1
+179 188 1
+179 189 1
+179 190 1
+179 191 1
+180 181 1
+180 182 1
+180 183 1
+180 184 1
+180 185 1
+180 186 1
+180 187 1
+180 188 1
+180 189 1
+180 190 1
+180 191 1
+181 182 1
+181 183 1
+181 184 1
+181 185 1
+181 186 1
+181 187 1
+181 188 1
+181 189 1
+181 190 1
+181 191 1
+182 183 1
+182 184 1
+182 185 1
+182 186 1
+182 187 1
+182 188 1
+182 189 1
+182 190 1
+182 191 1
+183 184 1
+183 185 1
+183 186 1
+183 187 1
+183 188 1
+183 189 1
+183 190 1
+183 191 1
+184 185 1
+184 186 1
+184 187 1
+184 188 1
+184 189 1
+184 190 1
+184 191 1
+185 186 1
+185 187 1
+185 188 1
+185 189 1
+185 190 1
+185 191 1
+186 187 1
+186 188 1
+186 189 1
+186 190 1
+186 191 1
+187 188 1
+187 189 1
+187 190 1
+187 191 1
+188 189 1
+188 190 1
+188 191 1
+189 190 1
+189 191 1
+190 191 1
+192 193 1
+192 194 1
+192 195 1
+192 196 1
+193 194 1
+193 195 1
+193 196 1
+193 411 1
+193 412 1
+194 195 1
+194 196 1
+194 809 1
+194 810 1
+195 196 1
+195 197 1
+195 419 1
+195 625 1
+195 626 1
+195 627 1
+197 198 1
+197 199 1
+197 200 1
+197 201 1
+197 202 1
+197 331 1
+197 419 1
+197 558 1
+197 559 1
+197 560 1
+197 561 1
+197 625 1
+197 626 1
+197 627 1
+197 635 1
+197 636 1
+197 637 1
+198 199 1
+198 200 1
+198 201 1
+198 202 1
+199 200 1
+199 201 1
+199 202 1
+200 201 1
+200 202 1
+201 202 1
+203 204 1
+203 205 1
+203 206 1
+204 205 1
+204 206 1
+205 206 1
+207 208 1
+207 209 1
+207 210 1
+207 211 1
+208 209 1
+208 210 1
+208 211 1
+209 210 1
+209 211 1
+210 211 1
+212 213 1
+212 214 1
+212 215 1
+212 216 1
+213 214 1
+213 215 1
+213 216 1
+214 215 1
+214 216 1
+215 216 1
+217 218 1
+217 219 1
+217 220 1
+217 221 1
+218 219 1
+218 220 1
+218 221 1
+219 220 1
+219 221 1
+220 221 1
+222 223 1
+223 1002 1
+223 1003 1
+223 1004 1
+224 225 1
+224 226 1
+224 509 1
+224 728 1
+224 730 1
+224 919 1
+224 920 1
+224 921 1
+224 922 1
+225 226 1
+227 228 1
+227 229 1
+227 230 1
+227 231 1
+227 232 1
+227 233 1
+228 229 1
+228 230 1
+228 231 1
+228 232 1
+228 233 1
+229 230 1
+229 231 1
+229 232 1
+229 233 1
+230 231 1
+230 232 1
+230 233 1
+231 232 1
+231 233 1
+232 233 1
+234 235 2
+234 236 2
+234 237 2
+234 238 2
+234 239 2
+235 236 2
+235 237 2
+235 238 2
+235 239 2
+236 237 2
+236 238 2
+236 239 2
+237 238 2
+237 239 2
+238 239 2
+241 242 1
+241 243 1
+242 243 1
+244 245 2
+246 247 1
+246 248 1
+247 248 1
+249 250 1
+251 252 1
+251 253 1
+251 254 1
+252 253 1
+252 254 1
+252 761 1
+252 764 1
+252 765 1
+252 766 1
+253 254 1
+255 256 1
+255 257 1
+255 258 1
+255 259 1
+256 257 1
+256 258 1
+256 259 1
+257 258 1
+257 259 1
+258 259 1
+260 261 1
+261 526 1
+261 527 1
+261 528 1
+261 529 1
+261 530 1
+261 531 1
+262 263 1
+262 264 1
+262 265 1
+262 266 1
+262 267 1
+263 264 1
+263 265 1
+263 266 1
+263 267 1
+264 265 1
+264 266 1
+264 267 1
+265 266 1
+265 267 1
+266 267 1
+268 269 1
+268 270 1
+269 270 1
+270 824 1
+270 825 1
+270 826 1
+270 827 1
+271 272 1
+271 273 1
+271 274 1
+271 275 1
+271 417 1
+271 418 1
+271 471 1
+271 472 1
+271 473 1
+271 474 1
+271 475 1
+272 273 1
+272 274 1
+272 275 1
+273 274 1
+273 275 1
+274 275 1
+276 277 1
+276 278 1
+277 278 1
+279 280 1
+279 281 1
+279 282 1
+280 281 1
+280 282 1
+281 282 1
+283 284 1
+283 285 1
+284 285 1
+286 287 1
+286 288 1
+287 288 1
+289 290 1
+289 291 1
+289 292 1
+289 293 1
+290 291 1
+290 292 1
+290 293 1
+290 298 1
+290 423 1
+290 466 1
+290 467 1
+291 292 1
+291 293 1
+292 293 1
+292 305 1
+292 468 1
+292 469 1
+292 470 1
+294 295 1
+294 296 1
+294 297 1
+295 296 1
+295 297 1
+296 297 1
+298 299 1
+298 423 1
+299 304 1
+299 305 1
+300 895 1
+300 937 1
+301 302 1
+301 303 1
+302 303 1
+304 305 1
+305 329 1
+305 330 1
+305 468 1
+305 469 1
+305 470 1
+306 307 1
+306 308 1
+306 309 1
+307 308 1
+307 309 1
+308 309 1
+310 311 1
+310 312 1
+310 326 1
+310 327 1
+310 328 1
+310 580 2
+310 581 2
+310 582 2
+310 583 2
+310 584 2
+310 585 2
+310 586 2
+310 587 2
+310 811 1
+310 812 1
+310 813 1
+311 312 1
+313 314 1
+313 315 1
+313 316 1
+314 315 1
+314 316 1
+315 316 1
+317 318 1
+317 319 1
+317 320 1
+318 319 1
+318 320 1
+319 320 1
+321 322 1
+321 323 1
+321 324 1
+321 325 1
+322 323 1
+322 324 1
+322 325 1
+323 324 1
+323 325 1
+324 325 1
+325 364 1
+325 419 1
+325 504 1
+325 635 1
+325 755 1
+325 756 1
+325 757 1
+325 758 1
+325 863 1
+325 864 1
+325 865 1
+326 327 1
+326 328 1
+327 328 1
+329 330 1
+331 332 1
+331 333 1
+331 419 1
+331 420 1
+331 421 1
+331 422 1
+331 536 1
+331 537 1
+331 538 1
+331 539 1
+331 540 1
+331 541 1
+331 542 1
+331 543 1
+331 544 1
+331 545 1
+331 635 1
+331 636 1
+331 637 1
+332 333 1
+334 335 1
+334 336 1
+334 337 1
+334 338 1
+334 339 1
+334 340 1
+335 336 1
+335 337 1
+335 338 1
+335 339 1
+335 340 1
+336 337 1
+336 338 1
+336 339 1
+336 340 1
+337 338 1
+337 339 1
+337 340 1
+338 339 1
+338 340 1
+339 340 1
+340 724 1
+340 755 1
+340 814 1
+340 815 1
+340 816 1
+340 817 1
+341 342 1
+341 343 1
+341 344 1
+342 343 1
+342 344 1
+343 344 1
+345 346 1
+345 347 1
+346 347 1
+348 349 1
+350 351 1
+350 352 1
+350 353 1
+351 352 1
+351 353 1
+352 353 1
+354 355 1
+354 356 1
+354 357 1
+355 356 1
+355 357 1
+356 357 1
+358 359 1
+360 361 1
+360 362 1
+360 363 1
+361 362 1
+361 363 1
+362 363 1
+364 409 1
+364 410 1
+364 419 1
+365 366 1
+365 367 1
+365 368 1
+366 367 1
+366 368 1
+367 368 1
+369 370 1
+369 371 1
+370 371 1
+370 372 1
+370 373 1
+370 374 1
+370 375 2
+370 403 1
+370 404 1
+370 631 1
+370 632 1
+370 633 1
+370 634 1
+372 373 1
+372 374 1
+372 375 1
+373 374 1
+373 375 1
+374 375 1
+375 403 1
+375 404 1
+376 377 2
+376 378 1
+376 379 2
+376 380 2
+376 381 2
+376 808 1
+377 378 1
+377 379 2
+377 380 2
+377 381 2
+377 808 1
+378 379 1
+378 380 1
+378 381 1
+379 380 2
+379 381 2
+379 808 1
+380 381 2
+380 808 1
+381 808 1
+382 383 1
+382 384 1
+382 385 1
+382 386 1
+383 384 1
+383 385 1
+383 386 1
+384 385 1
+384 386 1
+385 386 1
+386 638 1
+386 639 1
+386 640 1
+386 641 1
+386 642 1
+386 643 1
+386 644 1
+386 645 1
+386 646 1
+386 719 1
+386 720 1
+386 721 1
+386 722 1
+386 908 1
+386 909 1
+386 910 1
+387 388 1
+389 390 1
+389 391 1
+389 392 1
+390 391 1
+390 392 1
+391 392 1
+392 532 1
+392 533 1
+392 534 1
+392 535 1
+393 394 1
+393 395 1
+393 396 1
+393 397 1
+393 398 1
+394 395 1
+394 396 1
+394 397 1
+394 398 1
+394 955 1
+394 956 1
+394 957 1
+394 958 1
+395 396 1
+395 397 1
+395 398 1
+396 397 1
+396 398 1
+397 398 1
+399 400 1
+399 401 1
+399 402 1
+399 532 1
+399 651 1
+400 401 1
+400 402 1
+401 402 1
+403 404 1
+405 406 1
+405 407 1
+405 408 1
+406 407 1
+406 408 1
+407 408 1
+409 410 1
+411 412 1
+411 590 1
+411 662 1
+411 663 1
+411 664 1
+411 665 1
+411 666 1
+413 414 1
+413 415 1
+413 416 1
+414 415 1
+414 416 1
+415 416 1
+417 418 1
+419 420 1
+419 421 1
+419 422 1
+419 551 1
+419 552 1
+419 553 1
+419 625 1
+419 626 1
+419 627 1
+420 421 1
+420 422 1
+421 422 1
+424 425 1
+424 426 1
+425 426 1
+427 428 1
+427 429 1
+427 430 1
+428 429 2
+428 430 2
+428 433 1
+428 840 1
+429 430 2
+431 432 1
+431 433 1
+431 434 1
+432 433 1
+432 434 1
+433 434 1
+433 670 1
+433 840 1
+435 436 1
+435 437 1
+435 438 1
+435 439 1
+435 440 1
+435 441 1
+436 437 1
+436 438 1
+436 439 1
+436 440 1
+436 441 1
+437 438 1
+437 439 1
+437 440 1
+437 441 1
+438 439 1
+438 440 1
+438 441 1
+438 693 1
+438 694 1
+438 695 1
+438 696 1
+438 697 1
+438 698 1
+438 699 1
+438 700 1
+438 701 1
+438 702 1
+439 440 1
+439 441 1
+440 441 1
+442 443 2
+442 444 1
+442 445 1
+442 476 1
+442 477 2
+442 478 1
+442 732 1
+442 733 1
+443 444 1
+443 445 1
+443 476 1
+443 477 1
+443 478 1
+444 445 1
+446 447 1
+446 448 1
+446 449 1
+446 450 1
+447 448 1
+447 449 1
+447 450 1
+448 449 1
+448 450 1
+449 450 1
+451 452 1
+451 453 1
+451 454 1
+451 455 1
+451 456 1
+451 457 1
+451 458 1
+452 453 1
+452 454 1
+452 455 1
+452 456 1
+452 457 1
+452 458 1
+453 454 1
+453 455 1
+453 456 1
+453 457 1
+453 458 1
+454 455 1
+454 456 1
+454 457 1
+454 458 1
+455 456 1
+455 457 1
+455 458 1
+456 457 1
+456 458 1
+457 458 1
+459 460 1
+461 462 1
+461 463 1
+461 464 1
+461 465 1
+462 463 1
+462 464 1
+462 465 1
+463 464 1
+463 465 1
+464 465 1
+466 467 1
+467 789 1
+467 854 1
+467 965 1
+467 966 1
+467 967 1
+467 968 1
+467 969 1
+468 469 1
+468 470 1
+469 470 1
+471 472 1
+471 473 1
+471 474 1
+471 475 1
+472 473 1
+472 474 1
+472 475 1
+473 474 1
+473 475 1
+474 475 1
+476 477 1
+476 478 1
+477 478 1
+477 732 1
+477 733 1
+479 480 1
+479 481 2
+479 482 3
+479 861 1
+479 862 1
+479 959 1
+480 481 1
+480 482 1
+481 482 2
+481 861 1
+481 862 1
+482 861 1
+482 862 1
+482 959 1
+483 484 1
+483 485 1
+483 486 1
+483 487 1
+484 485 1
+484 486 1
+484 487 1
+485 486 1
+485 487 1
+486 487 1
+486 600 1
+486 601 1
+488 489 1
+488 490 1
+488 491 1
+488 520 1
+488 521 1
+488 522 1
+488 523 1
+488 683 1
+488 684 1
+488 690 1
+488 691 1
+488 692 1
+488 988 1
+488 989 1
+488 990 1
+488 991 1
+488 992 1
+489 490 1
+489 491 1
+490 491 1
+493 494 1
+495 496 1
+497 498 1
+497 499 1
+497 500 1
+497 501 1
+498 499 1
+498 500 1
+498 501 1
+499 500 1
+499 501 1
+500 501 1
+502 503 1
+502 504 1
+502 505 1
+503 504 1
+503 505 1
+504 505 1
+504 593 1
+504 755 2
+504 756 2
+504 757 2
+504 758 1
+504 894 1
+506 507 1
+506 508 1
+506 509 1
+506 510 1
+507 508 1
+507 509 1
+507 510 1
+508 509 1
+508 510 1
+509 510 2
+509 518 1
+509 568 1
+509 569 1
+509 728 1
+509 919 1
+509 920 1
+509 921 1
+509 922 1
+510 518 1
+510 568 1
+510 569 1
+511 512 1
+511 513 1
+512 513 1
+514 515 1
+514 516 1
+515 516 1
+518 519 1
+518 533 1
+518 568 1
+518 569 1
+518 979 1
+518 980 1
+518 981 1
+520 521 1
+520 522 1
+520 523 1
+521 522 1
+521 523 1
+522 523 1
+524 525 1
+524 588 1
+524 589 1
+524 590 1
+526 527 1
+526 528 1
+526 529 1
+526 530 1
+526 531 1
+527 528 1
+527 529 1
+527 530 1
+527 531 1
+528 529 1
+528 530 1
+528 531 1
+529 530 1
+529 531 1
+530 531 1
+532 533 1
+532 534 1
+532 535 1
+532 651 1
+533 534 1
+533 535 1
+533 979 1
+533 980 1
+533 981 1
+534 535 1
+536 537 1
+536 538 1
+536 539 1
+536 540 1
+536 541 1
+536 542 1
+536 543 1
+536 544 1
+536 545 1
+537 538 1
+537 539 1
+537 540 1
+537 541 1
+537 542 1
+537 543 1
+537 544 1
+537 545 1
+537 611 1
+537 612 1
+537 613 1
+537 614 1
+538 539 1
+538 540 1
+538 541 1
+538 542 1
+538 543 1
+538 544 1
+538 545 1
+539 540 1
+539 541 1
+539 542 1
+539 543 1
+539 544 1
+539 545 1
+540 541 1
+540 542 1
+540 543 1
+540 544 1
+540 545 1
+541 542 1
+541 543 1
+541 544 1
+541 545 1
+542 543 1
+542 544 1
+542 545 1
+543 544 1
+543 545 1
+544 545 1
+546 547 1
+546 548 1
+546 549 1
+546 550 1
+547 548 1
+547 549 1
+547 550 1
+548 549 1
+548 550 1
+549 550 1
+551 552 1
+551 553 1
+552 553 1
+554 555 1
+554 556 1
+554 557 1
+555 556 1
+555 557 1
+556 557 1
+558 559 1
+558 560 1
+558 561 1
+559 560 1
+559 561 1
+560 561 1
+562 563 1
+562 564 2
+562 565 1
+562 566 1
+562 567 1
+562 570 1
+562 571 1
+562 572 1
+563 564 1
+563 565 1
+563 566 1
+563 567 1
+564 565 1
+564 566 1
+564 567 1
+564 570 1
+564 571 1
+564 572 1
+565 566 1
+565 567 1
+566 567 1
+568 569 1
+570 571 1
+570 572 1
+571 572 1
+573 574 1
+573 575 1
+573 576 1
+573 577 1
+573 578 1
+573 579 1
+574 575 1
+574 576 1
+574 577 1
+574 578 1
+574 579 1
+575 576 1
+575 577 1
+575 578 1
+575 579 1
+576 577 1
+576 578 1
+576 579 1
+577 578 1
+577 579 1
+578 579 1
+580 581 2
+580 582 2
+580 583 2
+580 584 2
+580 585 2
+580 586 2
+580 587 2
+581 582 2
+581 583 2
+581 584 2
+581 585 2
+581 586 2
+581 587 2
+581 591 1
+581 592 1
+581 593 1
+582 583 2
+582 584 2
+582 585 2
+582 586 2
+582 587 2
+583 584 2
+583 585 2
+583 586 2
+583 587 2
+584 585 2
+584 586 2
+584 587 2
+585 586 2
+585 587 2
+586 587 2
+588 589 1
+588 590 1
+589 590 1
+590 662 1
+590 663 1
+590 664 1
+590 665 1
+590 666 1
+591 592 1
+591 593 1
+592 593 1
+593 755 1
+593 756 1
+593 757 1
+593 894 1
+594 595 1
+594 596 1
+595 596 1
+597 598 1
+597 599 1
+598 599 1
+600 601 1
+602 603 1
+602 604 1
+603 604 1
+603 731 1
+603 838 1
+603 839 1
+603 840 1
+606 607 1
+606 608 1
+606 609 1
+606 610 1
+607 608 1
+607 609 1
+607 610 1
+608 609 1
+608 610 1
+609 610 1
+611 612 1
+611 613 1
+611 614 1
+612 613 1
+612 614 1
+613 614 1
+615 616 1
+615 617 1
+615 618 1
+616 617 1
+616 618 1
+617 618 1
+619 620 1
+619 621 1
+619 622 1
+620 621 1
+620 622 1
+621 622 1
+623 624 1
+625 626 1
+625 627 1
+626 627 1
+628 629 1
+628 630 1
+629 630 1
+631 632 1
+631 633 1
+631 634 1
+632 633 1
+632 634 1
+633 634 1
+635 636 1
+635 637 1
+635 863 1
+635 864 1
+635 865 1
+636 637 1
+638 639 1
+638 640 1
+638 641 1
+638 642 1
+638 643 1
+638 644 1
+638 645 1
+638 646 1
+639 640 1
+639 641 1
+639 642 1
+639 643 1
+639 644 1
+639 645 1
+639 646 1
+640 641 1
+640 642 1
+640 643 1
+640 644 1
+640 645 1
+640 646 1
+641 642 1
+641 643 1
+641 644 1
+641 645 1
+641 646 1
+641 728 1
+641 802 1
+641 876 1
+641 877 1
+641 878 1
+642 643 1
+642 644 1
+642 645 1
+642 646 1
+643 644 1
+643 645 1
+643 646 1
+644 645 1
+644 646 1
+645 646 1
+647 648 1
+647 649 1
+647 650 1
+647 651 1
+648 649 1
+648 650 1
+648 651 1
+649 650 1
+649 651 1
+650 651 1
+652 653 1
+652 654 1
+652 655 1
+652 656 1
+652 657 1
+653 654 1
+653 655 1
+653 656 1
+653 657 1
+654 655 1
+654 656 1
+654 657 1
+655 656 1
+655 657 1
+656 657 1
+658 659 1
+658 660 1
+658 661 1
+659 660 1
+659 661 1
+660 661 1
+662 663 1
+662 664 1
+662 665 1
+662 666 1
+663 664 1
+663 665 1
+663 666 1
+664 665 1
+664 666 1
+665 666 1
+667 668 1
+667 669 1
+668 669 1
+671 672 1
+671 673 1
+671 674 1
+671 675 1
+672 673 1
+672 674 1
+672 675 1
+673 674 1
+673 675 1
+674 675 1
+676 677 1
+676 678 1
+676 679 1
+677 678 1
+677 679 1
+678 679 1
+680 681 1
+680 682 1
+681 682 1
+683 684 1
+685 686 1
+685 687 1
+685 688 1
+685 689 1
+686 687 1
+686 688 1
+686 689 1
+687 688 1
+687 689 1
+688 689 1
+690 691 1
+690 692 1
+691 692 1
+693 694 1
+693 695 1
+693 696 1
+693 697 1
+693 698 1
+693 699 1
+693 700 1
+693 701 1
+693 702 1
+694 695 1
+694 696 1
+694 697 1
+694 698 1
+694 699 1
+694 700 1
+694 701 1
+694 702 1
+695 696 1
+695 697 1
+695 698 1
+695 699 1
+695 700 1
+695 701 1
+695 702 1
+696 697 1
+696 698 1
+696 699 1
+696 700 1
+696 701 1
+696 702 1
+697 698 1
+697 699 1
+697 700 1
+697 701 1
+697 702 1
+698 699 1
+698 700 1
+698 701 1
+698 702 1
+699 700 1
+699 701 1
+699 702 1
+700 701 1
+700 702 1
+701 702 1
+703 704 1
+703 705 1
+703 706 1
+703 707 1
+703 708 1
+703 709 1
+703 710 1
+703 711 1
+704 705 1
+704 706 1
+704 707 1
+704 708 1
+704 709 1
+704 710 1
+704 711 1
+705 706 1
+705 707 1
+705 708 1
+705 709 1
+705 710 1
+705 711 1
+706 707 1
+706 708 1
+706 709 1
+706 710 1
+706 711 1
+707 708 1
+707 709 1
+707 710 1
+707 711 1
+708 709 1
+708 710 1
+708 711 1
+709 710 1
+709 711 1
+710 711 1
+712 713 1
+714 715 1
+714 716 1
+714 717 1
+714 718 1
+715 716 1
+715 717 1
+715 718 1
+716 717 1
+716 718 1
+717 718 1
+719 720 1
+719 721 1
+719 722 1
+720 721 1
+720 722 1
+721 722 1
+723 724 1
+723 725 1
+724 725 1
+724 755 2
+724 814 2
+724 815 2
+724 816 1
+724 817 1
+724 870 1
+724 871 1
+724 872 1
+724 873 1
+724 874 1
+724 875 1
+726 727 1
+726 728 1
+726 729 1
+726 770 1
+727 728 1
+727 729 1
+728 729 3
+728 734 1
+728 735 1
+728 736 1
+728 737 1
+728 793 1
+728 794 1
+728 795 1
+728 796 1
+728 802 1
+728 876 1
+728 877 1
+728 878 1
+728 919 1
+728 920 1
+728 921 1
+728 922 1
+729 734 1
+729 735 1
+729 736 1
+729 737 1
+729 793 1
+729 794 1
+729 795 1
+729 796 1
+732 733 1
+734 735 1
+734 736 1
+734 737 1
+734 942 1
+734 943 1
+734 944 1
+735 736 1
+735 737 1
+736 737 1
+738 739 1
+738 740 1
+738 741 1
+738 742 1
+739 740 1
+739 741 1
+739 742 1
+739 841 1
+739 842 1
+739 843 1
+740 741 1
+740 742 1
+741 742 1
+743 744 1
+743 745 1
+744 745 1
+746 747 1
+746 748 1
+746 749 1
+746 750 1
+746 751 1
+747 748 1
+747 749 1
+747 750 1
+747 751 1
+748 749 1
+748 750 1
+748 751 1
+749 750 1
+749 751 1
+750 751 1
+752 753 1
+752 754 1
+753 754 1
+755 756 2
+755 757 2
+755 758 1
+755 814 2
+755 815 2
+755 816 1
+755 817 1
+755 870 1
+755 871 1
+755 872 1
+755 873 1
+755 874 1
+755 875 1
+755 894 1
+756 757 2
+756 758 1
+756 894 1
+757 758 1
+757 894 1
+759 760 1
+759 761 1
+759 762 1
+759 763 1
+760 761 1
+760 762 1
+760 763 1
+761 762 1
+761 763 1
+761 764 1
+761 765 1
+761 766 1
+762 763 1
+764 765 1
+764 766 1
+765 766 1
+767 768 1
+767 769 1
+768 769 1
+771 772 1
+771 773 1
+771 774 1
+771 775 1
+772 773 1
+772 774 1
+772 775 1
+773 774 1
+773 775 1
+774 775 1
+776 777 1
+776 778 1
+776 779 1
+776 780 1
+777 778 1
+777 779 1
+777 780 1
+778 779 1
+778 780 1
+779 780 1
+781 782 1
+781 783 1
+781 784 1
+782 783 1
+782 784 1
+783 784 1
+786 787 1
+786 788 1
+786 789 1
+787 788 1
+787 789 1
+788 789 1
+789 854 1
+789 965 1
+789 966 1
+789 967 1
+789 968 1
+789 969 1
+790 791 1
+790 792 1
+791 792 1
+793 794 1
+793 795 1
+793 796 1
+794 795 1
+794 796 1
+795 796 1
+797 798 1
+797 799 1
+798 799 1
+800 801 1
+800 802 1
+801 802 1
+802 876 1
+802 877 1
+802 878 1
+803 804 1
+803 805 1
+803 806 1
+803 807 1
+804 805 1
+804 806 1
+804 807 1
+805 806 1
+805 807 1
+806 807 1
+809 810 1
+811 812 1
+811 813 1
+812 813 1
+814 815 2
+814 816 1
+814 817 1
+814 870 1
+814 871 1
+814 872 1
+814 873 1
+814 874 1
+814 875 1
+815 816 1
+815 817 1
+815 870 1
+815 871 1
+815 872 1
+815 873 1
+815 874 1
+815 875 1
+816 817 1
+818 819 1
+818 820 1
+818 821 1
+818 822 1
+818 823 1
+819 820 1
+819 821 1
+819 822 1
+819 823 1
+820 821 1
+820 822 1
+820 823 1
+821 822 1
+821 823 1
+822 823 1
+824 825 1
+824 826 1
+824 827 1
+825 826 1
+825 827 1
+826 827 1
+828 829 1
+828 830 1
+828 831 1
+828 832 1
+828 924 1
+829 830 1
+829 831 1
+829 832 1
+830 831 1
+830 832 1
+831 832 1
+833 834 1
+833 835 1
+833 836 1
+833 837 1
+834 835 1
+834 836 1
+834 837 1
+835 836 1
+835 837 1
+836 837 1
+838 839 1
+838 840 1
+839 840 1
+841 842 1
+841 843 1
+842 843 1
+844 845 1
+844 846 1
+844 847 1
+845 846 1
+845 847 1
+846 847 1
+848 849 1
+848 850 1
+848 851 1
+848 852 1
+849 850 1
+849 851 1
+849 852 1
+850 851 1
+850 852 1
+851 852 1
+853 854 1
+853 855 1
+854 855 1
+854 965 1
+854 966 1
+854 967 1
+854 968 1
+854 969 1
+856 857 1
+856 858 1
+856 859 1
+856 860 1
+857 858 1
+857 859 1
+857 860 1
+858 859 1
+858 860 1
+859 860 1
+861 862 1
+863 864 1
+863 865 1
+864 865 1
+864 915 1
+864 916 1
+864 917 1
+864 918 1
+864 993 1
+864 994 1
+864 995 1
+864 996 1
+864 997 1
+866 867 1
+866 868 1
+866 869 1
+867 868 1
+867 869 1
+868 869 1
+870 871 1
+870 872 1
+870 873 1
+870 874 1
+870 875 1
+871 872 1
+871 873 1
+871 874 1
+871 875 1
+872 873 1
+872 874 1
+872 875 1
+873 874 1
+873 875 1
+874 875 1
+876 877 1
+876 878 1
+877 878 1
+878 985 1
+878 986 1
+878 987 1
+879 880 1
+881 882 1
+883 884 1
+885 886 1
+885 887 1
+885 888 1
+885 889 1
+885 890 1
+885 891 1
+886 887 1
+886 888 1
+886 889 1
+886 890 1
+886 891 1
+887 888 1
+887 889 1
+887 890 1
+887 891 1
+888 889 1
+888 890 1
+888 891 1
+889 890 1
+889 891 1
+890 891 1
+892 893 1
+896 897 2
+898 899 1
+898 900 1
+898 901 1
+898 902 1
+898 903 1
+898 904 1
+898 905 1
+899 900 1
+899 901 1
+899 902 1
+899 903 1
+899 904 1
+899 905 1
+900 901 1
+900 902 1
+900 903 1
+900 904 1
+900 905 1
+901 902 1
+901 903 1
+901 904 1
+901 905 1
+902 903 1
+902 904 1
+902 905 1
+903 904 1
+903 905 1
+904 905 1
+906 907 1
+908 909 1
+908 910 1
+909 910 1
+911 912 1
+911 913 1
+911 914 1
+912 913 1
+912 914 1
+913 914 1
+915 916 1
+915 917 1
+915 918 1
+916 917 1
+916 918 1
+917 918 1
+919 920 1
+919 921 1
+919 922 1
+920 921 1
+920 922 1
+921 922 1
+925 926 1
+925 927 1
+925 928 1
+926 927 1
+926 928 1
+927 928 1
+929 930 1
+929 931 1
+930 931 1
+932 933 1
+932 934 1
+932 935 1
+932 936 1
+933 934 1
+933 935 1
+933 936 1
+934 935 1
+934 936 1
+935 936 1
+938 939 1
+938 940 1
+938 941 1
+939 940 1
+939 941 1
+940 941 1
+942 943 1
+942 944 1
+943 944 1
+943 948 1
+943 949 1
+943 950 1
+945 946 1
+945 947 1
+946 947 1
+948 949 1
+948 950 1
+949 950 1
+951 952 1
+951 953 1
+951 954 1
+952 953 1
+952 954 1
+953 954 1
+955 956 1
+955 957 1
+955 958 1
+956 957 1
+956 958 1
+957 958 1
+960 961 1
+960 962 1
+960 963 1
+961 962 1
+961 963 1
+962 963 1
+965 966 1
+965 967 1
+965 968 1
+965 969 1
+966 967 1
+966 968 1
+966 969 1
+967 968 1
+967 969 1
+968 969 1
+970 971 1
+972 973 1
+972 974 1
+972 975 1
+972 976 1
+972 977 1
+972 978 1
+973 974 1
+973 975 1
+973 976 1
+973 977 1
+973 978 1
+974 975 1
+974 976 1
+974 977 1
+974 978 1
+975 976 1
+975 977 1
+975 978 1
+976 977 1
+976 978 1
+977 978 1
+979 980 1
+979 981 1
+980 981 1
+983 984 1
+985 986 1
+985 987 1
+986 987 1
+988 989 1
+988 990 1
+988 991 1
+988 992 1
+989 990 1
+989 991 1
+989 992 1
+990 991 1
+990 992 1
+991 992 1
+993 994 1
+993 995 1
+993 996 1
+993 997 1
+994 995 1
+994 996 1
+994 997 1
+995 996 1
+995 997 1
+996 997 1
+998 999 1
+998 1000 1
+998 1001 1
+999 1000 1
+999 1001 1
+1000 1001 1
+1002 1003 1
+1002 1004 1
+1003 1004 1
