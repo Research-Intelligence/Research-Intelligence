@@ -220,7 +220,7 @@ df = df.reset_index(drop=True)
 print("Database Final Dimensions are (whitout duplicates): ", df.shape)
 ```
 
-<!-- #region toc-hr-collapsed=false -->
+<!-- #region toc-hr-collapsed=false toc-hr-collapsed=false -->
 ## **Field Tags Cleaning**
 <!-- #endregion -->
 

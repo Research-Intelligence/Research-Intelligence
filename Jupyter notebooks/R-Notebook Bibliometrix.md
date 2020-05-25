@@ -99,8 +99,8 @@ getwd()
 
 ```R
 # Here we read Scopus and WOS .bib files:
-SDB <- readFiles("Keyword Searches/Jupyter/Input Data/Jupyter_SCOPUS.bib")  # SCOPUS
-WDB <- readFiles("Keyword Searches/Jupyter/Input Data/Jupyter_WOS.bib")     # WOS
+SDB <- readFiles("Keyword Searches/mitochondrial dynamics/Input Data/Mitochondrial_SCOPUS.bib")  # SCOPUS
+WDB <- readFiles("Keyword Searches/mitochondrial dynamics/Input Data/Mitochondrial_WOS.bib")     # WOS
 #WDB2 <- readFiles("Keyword Searches/Floods/Input Data/loods_WOS2.bib")     # Another extra for WOS just in case
 ```
 
@@ -114,7 +114,7 @@ WDB_DF <- convert2df(WDB, dbsource = "isi", format = "bibtex")              # WO
 ```R
 # Now we merge the DataFrames and remove duplicates:
 Merged <- mergeDbSources(WDB_DF, SDB_DF, remove.duplicated=TRUE)
-message('The merged database has: ', nrow(M), ' articles, after merging and removing duplicates')
+message('The merged database has: ', nrow(Merged), ' articles, after merging and removing duplicates')
 
 # In case we are working with more than 2 BibTeX/dataframes we can apply:
 #Merged <- mergeDbSources(WDB_DF, SDB_DF, WDB_DF_2,remove.duplicated=TRUE)
@@ -162,7 +162,7 @@ write.csv(M,'db_r_to_py.csv')
 **We read back either the cleaned csv or another one for outputs**
 
 ```R
-M <- read.csv(file = "db_py_to_r.csv")                                   # Reading output from Python notebook
+M <- read.csv(file = "db_r_to_py.csv")                                   # Reading output from Python notebook
 #M <- read.csv(file = "Keyword Searches/Jupyter/Database/Jupyter.csv")   # Database reading from any keyword search
 ```
 
@@ -208,7 +208,7 @@ M$VL<- as.character(M$VL)
 message('Database has ', nrow(M), ' articles and ', ncol(M), ' fields')
 ```
 
-<!-- #region toc-hr-collapsed=false -->
+<!-- #region toc-hr-collapsed=false toc-hr-collapsed=false -->
 # **Outputs**
 <!-- #endregion -->
 
