@@ -8,3 +8,5 @@ A collection of Research Intelligence methods and workflows
 ## Usage
 
 ## References
+
+## Collaborators/Team
