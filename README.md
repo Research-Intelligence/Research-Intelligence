@@ -5,7 +5,7 @@ A collection of Research Intelligence methods and workflows
 
 ## Workflow
 
-[](Workflow.png)
+![](Workflow.png)
 
 ## Usage
 
