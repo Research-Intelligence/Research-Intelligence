@@ -12,3 +12,6 @@ A collection of Research Intelligence methods and workflows
 ## References
 
 ## Collaborators/Team
+
+@mlcanales
+@juancastilla
