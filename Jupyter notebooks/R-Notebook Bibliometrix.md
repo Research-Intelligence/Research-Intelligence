@@ -99,16 +99,18 @@ getwd()
 
 ```R
 # Here we read Scopus and WOS .bib files:
-SDB <- readFiles("Keyword Searches/mitochondrial dynamics/Input Data/Mitochondrial_SCOPUS.bib")  # SCOPUS
-WDB <- readFiles("Keyword Searches/mitochondrial dynamics/Input Data/Mitochondrial_WOS.bib")     # WOS
-#WDB2 <- readFiles("Keyword Searches/Floods/Input Data/loods_WOS2.bib")     # Another extra for WOS just in case
+SDB <- "Keyword Searches/ABM & Combat/Input Data/scopus.bib"  # SCOPUS
+WDB <- "Keyword Searches/ABM & Combat/Input Data/wos.bib"     # WOS
+#WDB2 <- "Keyword Searches/Floods/Input Data/loods_WOS2.bib"  # Another extra for WOS just in case
 ```
 
 ```R
 # Here we convert the just read BibTeX files to DataFrames:
 SDB_DF <- convert2df(SDB, dbsource = "scopus", format = "bibtex")           # Scopus .bib to DF
+message("The scopus database has: ", nrow(SDB_DF), ' articles.')
 WDB_DF <- convert2df(WDB, dbsource = "isi", format = "bibtex")              # WOS .bib to DF
-#WDB_DF_2 <- convert2df(WDB2, dbsource = "isi", format = "bibtex")          # The extra WOS from .bib to DF
+message("The wos database has: ", nrow(WDB_DF), ' articles.')
+#WDB_DF_2 <- convert2df(WDB2, dbsource = "isi", format = "bibtex")         # The extra WOS from .bib to DF
 ```
 
 ```R

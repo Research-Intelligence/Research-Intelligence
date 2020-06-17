@@ -85,7 +85,7 @@ file = open("Working directory for R.txt","w+")
 file.write(main_path)
 file.write('\n')
 file.close()
-shutil.move(main_path + 'Working directory for R.txt',main_path+'Jupyter notebooks/'+'Working directory for R.txt')
+shutil.move(os.path.join(main_path,"Working directory for R.txt"),os.path.join(main_path,"Jupyter notebooks","Working directory for R.txt"))
 ```
 
 # **WORKFLOW**
