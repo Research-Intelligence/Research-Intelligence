@@ -253,6 +253,9 @@ net2VOSviewer(net, vos.path="Temporal Outputs/Co-occurrences")
 
 ### **Co-Citation of Authors**
 
+
+Most economic models describe agents as being fully rational – given the information at their disposal, they act in the optimal way which maximizes their objective (or utility) function. This optimization may be technically very complicated requiring economic, mathematical, and statistical sophistication. In contrast, bounded-rational agents are limited in their ability to optimize. This limitation may be due to limited computational power, errors, or various psychological biases which have been experimentally documented.
+
 ```R
 NetMatrix <- biblioNetwork(M, analysis = "co-citation", network = "authors", sep = ";")
 net <- networkPlot( NetMatrix, Title="Authors Co-Citation Network",
